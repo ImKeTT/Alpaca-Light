@@ -59,16 +59,23 @@ TBD.
 ### Credits
 
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1)
-
 - [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)
-
 - [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
-
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-
 - [FLAN: Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
-
 - [BELLE: Bloom-Enhanced Large Language model Engine](https://github.com/LianjiaTech/BELLE)
 - https://github.com/tloen/alpaca-lora
 - https://github.com/PhoebusSi/Alpaca-CoT
 
+If you find our codes useful, please star the repo and consider to cite it.
+
+```bibtex
+@misc{alpaca-light,
+  author = {Haoqin Tu},
+  title = {Tune LLaMA with Prefix/LoRA},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ImKeTT/Alpaca_Light}},
+}
+```
