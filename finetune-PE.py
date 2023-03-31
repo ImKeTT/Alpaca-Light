@@ -70,6 +70,7 @@ VAL_SET_SIZE = args.val_set_size
 
 RELOAD_FILE_PTH = args.load
 DATA_PREFIX = "./data"
+MODEL = args.model_name
 
 
 if args.dataset == "alpaca":
